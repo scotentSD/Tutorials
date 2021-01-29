@@ -27,12 +27,11 @@ To add an extension:
 
 
 
-
-
-- Open Extensions in Activity bar
-  - Search for extensions
-  - Install Extension
-  - Set any Preferences (Settings) for an extension
+- To add extensions
+  - Open Extensions in Activity bar
+    - Search for extensions
+    - Install relevant Extensions
+    - Set any Preferences (Settings) for an extension
 
 
 Search for **markdown**:
