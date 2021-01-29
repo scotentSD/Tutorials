@@ -62,7 +62,6 @@ This can be opened by:
 ![VS Code :  Command Palette](https://scotentsd.github.io/tutorials/images/commandpalette.png){:height="40%" width="40%"}
 
 
-
 Once you have used a feature several times, it starts to appear in the **Right Click** menu. 
 
 **Right Click** menu:
