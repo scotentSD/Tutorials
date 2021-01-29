@@ -9,14 +9,14 @@ order: 1
 It allows "write once, use anywhere" functionality. 
 
 ## Contents
-- [Summary](#summary)
-- [Contents](#contents)
-  - [Markdown Headings](#markdown-headings)
-  - [Markdown Lists](#markdown-lists)
-    - [Numbers will create an ordered list](#numbers-will-create-an-ordered-list)
-  - [Links](#links)
-  - [Adding a TOC](#adding-a-toc)
-  - [Preferred Markdown tools](#preferred-markdown-tools)
+1. [Summary](#summary)
+2. [Contents](#contents)
+   1. [Markdown Headings](#markdown-headings)
+   2. [Markdown Lists](#markdown-lists)
+      1. [Numbers will create an ordered list](#numbers-will-create-an-ordered-list)
+   3. [Links](#links)
+   4. [Adding a TOC](#adding-a-toc)
+   5. [Preferred Markdown tools](#preferred-markdown-tools)
 
 ### Markdown Headings
 
