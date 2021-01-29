@@ -18,6 +18,7 @@ Download and install VS Code from
 ## VS Code Basics
 
 
+
 ### Adding Extensions
 To add an extension:
 - Open VS Code
