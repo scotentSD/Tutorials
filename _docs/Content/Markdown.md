@@ -16,6 +16,7 @@ It allows "write once, use anywhere" functionality.
     - [Numbers will create an ordered list](#numbers-will-create-an-ordered-list)
   - [Links](#links)
   - [Adding a TOC](#adding-a-toc)
+  - [Preferred Markdown tools](#preferred-markdown-tools)
 
 ### Markdown Headings
 
@@ -96,3 +97,13 @@ You can add links to other headings, (**Table of Contents**), in the same page u
 which will render as:
 
 - [Contents](#contents)
+
+---
+
+### Preferred Markdown tools
+To stay within the Microsoft Family, we are using 
+- **[VS CODE](https://code.visualstudio.com)**
+
+Read the **[VS CODE as a Markdown Editor Guide](https://scotentsd.github.io/tutorials/Content/VSCode/)**
+  
+
