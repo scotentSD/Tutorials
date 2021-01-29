@@ -36,7 +36,6 @@ To add an extension:
 
 
 You can see Installed extensions. 
-The Extensions Button 
 
 Install these Extensions: 
 ![VS Code : Extensions](https://scotentsd.github.io/tutorials/images/installed.png){:height="40%" width="40%"}
