@@ -15,6 +15,7 @@ It allows "write once, use anywhere" functionality.
   - [Markdown Lists](#markdown-lists)
     - [Numbers will create an ordered list](#numbers-will-create-an-ordered-list)
   - [Links](#links)
+  - [Adding a TOC](#adding-a-toc)
 
 ### Markdown Headings
 
@@ -53,6 +54,8 @@ Indenting is reflected in the list.
 
 Leave blank lines before and after most things
 
+---
+
 #### Numbers will create an ordered list
 ```ruby
 1. Item 1
@@ -66,15 +69,30 @@ renders as
 2. Item 2
    1. Item 3
 
+---
 
 ### Links
 
 Links follow this format:
 
 ```ruby
-[The Link Text](http://news.bbc.co.uk)
+[BBC NEWS](http://news.bbc.co.uk)
 ```
 
 and will render as
 
-[The Link Text](http://news.bbc.co.uk)
+- [BBC NEWS](http://news.bbc.co.uk)
+
+---
+
+### Adding a TOC
+
+You can add links to other headings, (**Table of Contents**), in the same page using this format
+
+```ruby
+[Contents](#contents)
+```
+
+which will render as:
+
+- [Contents](#contents)
