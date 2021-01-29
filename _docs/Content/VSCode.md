@@ -29,7 +29,7 @@ To add an extension:
 
 You can see Installed extensions
 Extensions: 
-![VS Code : Extensions](/images/installed.png)
+![VS Code : Extensions](https://scotentsd.github.io/tutorials/images/installed.png)
 
 Install the following Extensions
 - 
