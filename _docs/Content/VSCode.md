@@ -59,7 +59,7 @@ This can be opened by:
    1. This is usually **Markdown PDF: Export PDF**
 
 **Command Palette** bar:
-![VS Code :  Command Palette](https://scotentsd.github.io/tutorials/images/commandpalette.png){:height="40%" width="40%"}
+![VS Code :  Command Palette](https://scotentsd.github.io/tutorials/images/commandpalette.png){:height="60%" width="60%"}
 
 
 Once you have used a feature several times, it starts to appear in the **Right Click** menu. 
