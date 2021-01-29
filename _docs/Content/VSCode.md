@@ -1,7 +1,7 @@
 ---
 title: VS Code
 category: Research
-order: 1
+order: 2
 ---
 
 ## Contents
