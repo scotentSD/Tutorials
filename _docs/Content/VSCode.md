@@ -55,8 +55,13 @@ Some extensions add features that can be run using the **command palette**
 
 This can be opened by:
 1. **Right Clicking** on the page and selecting **command palette**
-2. Typing **Markdown** and then clicking on teh required featuire.
+2. Typing **Markdown** and then clicking on the required featuire.
    1. This is usually **Markdown PDF: Export PDF**
+
+**Command Palette** bar:
+![VS Code :  Command Palette](https://scotentsd.github.io/tutorials/images/commandpalette.png){:height="40%" width="40%"}
+
+
 
 Once you have used a feature several times, it starts to appear in the **Right Click** menu
 **Right Click** menu:
