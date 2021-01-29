@@ -34,7 +34,7 @@ will render as:
 - ## Heading 2 (H2)
 - ### Heading 3 (H3)
 - #### Heading 4 (H4)
-These headings have been added to a **LIST**
+_These headings have been added to a **LIST**_
 
 
 ### Markdown Lists
