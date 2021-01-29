@@ -41,7 +41,7 @@ Install these Extensions:
 ![VS Code : Extensions](https://scotentsd.github.io/tutorials/images/installed.png){:height="40%" width="40%"}
 
 
-Search for **markdown** in extensions:
+Search for **markdown**:
 ![VS Code : Search Extensions](https://scotentsd.github.io/tutorials/images/extensionsearch.png){:height="40%" width="40%"}
 
 ### Extension: Save Markdown as PDF
