@@ -57,7 +57,6 @@ Indenting is reflected in the list.
 Leave blank lines before and after most things
 
 
-
 #### Numbers will create an ordered list
 ```ruby
 1. Item 1
