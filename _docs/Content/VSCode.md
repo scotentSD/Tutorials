@@ -5,11 +5,11 @@ order: 1
 ---
 
 ## Contents
-- [Contents](#contents)
-- [Installing VS Code](#installing-vs-code)
-- [VS Code Basics](#vs-code-basics)
-  - [Adding Extensions](#adding-extensions)
-  - [Extension: Save Markdown as PDF](#extension-save-markdown-as-pdf)
+1. [Contents](#contents)
+2. [Installing VS Code](#installing-vs-code)
+3. [VS Code Basics](#vs-code-basics)
+   1. [Adding Extensions](#adding-extensions)
+   2. [Extension: Save Markdown as PDF](#extension-save-markdown-as-pdf)
 
 ## Installing VS Code
 Download and install VS Code from
