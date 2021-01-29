@@ -42,7 +42,7 @@ Install these Extensions:
 ![VS Code : Extensions](https://scotentsd.github.io/tutorials/images/installed.png){:height="40%" width="40%"}
 
 ## Extension Settings
-- Click on the Gear symbol next to an extension to open teh settings 
+- Click on the Gear symbol next to an extension to open the settings 
 
 Select **Extention Settings**:
 ![VS Code : Extensions Settings](https://scotentsd.github.io/tutorials/images/extensionsettings.png){:height="40%" width="40%"}
