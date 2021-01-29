@@ -164,7 +164,6 @@ $nav-image: $baseurl + "/images/menu.svg";
 
 	h3::before {
 		content: "";
-		@extend hr;
 		margin: 10px 0;
 	}
 }
