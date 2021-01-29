@@ -9,7 +9,8 @@ order: 2
 2. [Installing VS Code](#installing-vs-code)
 3. [VS Code Basics](#vs-code-basics)
    1. [Adding Extensions](#adding-extensions)
-   2. [Extension: Save Markdown as PDF](#extension-save-markdown-as-pdf)
+4. [Extension Settings](#extension-settings)
+   1. [Extension: Save Markdown as PDF](#extension-save-markdown-as-pdf)
 
 ## Installing VS Code
 Download and install VS Code from
@@ -39,6 +40,12 @@ Search for **markdown**:
 
 Install these Extensions: 
 ![VS Code : Extensions](https://scotentsd.github.io/tutorials/images/installed.png){:height="40%" width="40%"}
+
+## Extension Settings
+- Click on the Gear symbol next to an extension to open teh settings 
+
+Select **Extention Settings**:
+![VS Code : Extensions Settings](https://scotentsd.github.io/tutorials/images/extensionsettings.png){:height="40%" width="40%"}
 
 ### Extension: Save Markdown as PDF
 
