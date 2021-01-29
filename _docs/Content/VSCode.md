@@ -28,7 +28,8 @@ To add an extension:
   - Set any Preferences (Settings) for an extension
 
 You can see Installed extensions
-![VS Code : Extensions]{https://scotentsd.github.io/tutorials/images/installed.png}
+Extensions: 
+![VS Code : Extensions](https://scotentsd.github.io/tutorials/images/installed.png)
 
 Install the following Extensions
 - 
