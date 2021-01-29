@@ -32,6 +32,7 @@ Extensions:
 ![VS Code : Extensions](https://scotentsd.github.io/tutorials/images/installed.png)
 
 Install the following Extensions
-- 
+
+
 
 ### Extension: Save Markdown as PDF
