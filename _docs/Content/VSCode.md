@@ -37,7 +37,7 @@ To add an extension:
 
 You can see Installed extensions. The Extensions Button 
 Extensions: 
-![VS Code : Extensions](https://scotentsd.github.io/tutorials/images/installed.png | width=200)
+![VS Code : Extensions](https://scotentsd.github.io/tutorials/images/installed.png | width=300)
 
 Install the following Extensions
 
