@@ -10,7 +10,7 @@ order: 2
 3. [VS Code Basics](#vs-code-basics)
    1. [Adding Extensions](#adding-extensions)
 4. [Extension Settings](#extension-settings)
-   1. [Extension: Save Markdown as PDF](#extension-save-markdown-as-pdf)
+   1. [Running extensions](#running-extensions)
 
 ## Installing VS Code
 Download and install VS Code from
@@ -47,6 +47,15 @@ Install these Extensions:
 Select **Extention Settings**:
 ![VS Code : Extensions Settings](https://scotentsd.github.io/tutorials/images/extensionsettings.png){:height="40%" width="40%"}
 
-### Extension: Save Markdown as PDF
+### Running extensions
+
+Most extensions just run in teh background. They extend teh base functionality of **VS Code**
+
+Some extensions add features that can be run using the **command palette**
+
+This can be opened by:
+1. **Right Clicking** on the page and selecting **command palette**
+2. Typing **Markdown** and then clicking on teh required featuire.
+   1. This is usually **Markdown PDF: Export PDF**
 
 
