@@ -35,13 +35,15 @@ To add an extension:
   - Set any Preferences (Settings) for an extension
 
 
-You can see Installed extensions. The Extensions Button 
+You can see Installed extensions. 
+The Extensions Button 
+
 Extensions: 
-![VS Code : Extensions](https://scotentsd.github.io/tutorials/images/installed.png){:height="25%" width="25%"}
+![VS Code : Extensions](https://scotentsd.github.io/tutorials/images/installed.png){:height="40%" width="40%"}
 
 Install the following Extensions
 - Search for **markdown** in extension s:
-- ![VS Code : Search Extensions](https://scotentsd.github.io/tutorials/images/extensionssearch.png){:height="25%" width="25%"}
+- ![VS Code : Search Extensions](https://scotentsd.github.io/tutorials/images/extensionssearch.png){:height="40%" width="40%"}
 
 
 
