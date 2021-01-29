@@ -43,7 +43,7 @@ Extensions:
 
 Install the following Extensions
 - Search for **markdown** in extension s:
-- ![VS Code : Search Extensions](https://scotentsd.github.io/tutorials/images/extensionssearch.png){:height="40%" width="40%"}
+![VS Code : Search Extensions](https://scotentsd.github.io/tutorials/images/extensionsearch.png){:height="40%" width="40%"}
 
 
 
