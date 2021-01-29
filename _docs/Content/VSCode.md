@@ -58,4 +58,6 @@ This can be opened by:
 2. Typing **Markdown** and then clicking on teh required featuire.
    1. This is usually **Markdown PDF: Export PDF**
 
+Once you have used a feature several times, it starts to appear in the **Right Click** menu
+
 
