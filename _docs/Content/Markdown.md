@@ -55,7 +55,7 @@ Indenting is reflected in the list.
 
 Leave blank lines before and after most things
 
----
+
 
 #### Numbers will create an ordered list
 ```ruby
@@ -70,7 +70,7 @@ renders as
 2. Item 2
    1. Item 3
 
----
+
 
 ### Links
 
@@ -84,7 +84,7 @@ and will render as
 
 - [BBC NEWS](http://news.bbc.co.uk)
 
----
+
 
 ### Adding a TOC
 
@@ -98,7 +98,7 @@ which will render as:
 
 - [Contents](#contents)
 
----
+
 
 ### Preferred Markdown tools
 To stay within the Microsoft Family, we are using 
