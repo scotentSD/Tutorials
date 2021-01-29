@@ -49,7 +49,7 @@ Select **Extention Settings**:
 
 ### Running extensions
 
-Most extensions just run in teh background. They extend teh base functionality of **VS Code**
+Most extensions just run in the background. They extend the base functionality of **VS Code**
 
 Some extensions add features that can be run using the **command palette**
 
@@ -59,5 +59,6 @@ This can be opened by:
    1. This is usually **Markdown PDF: Export PDF**
 
 Once you have used a feature several times, it starts to appear in the **Right Click** menu
-
+**Right Click** menu:
+![VS Code : Right Click Menu](https://scotentsd.github.io/tutorials/images/rightclick.png){:height="40%" width="40%"}
 
