@@ -63,7 +63,8 @@ This can be opened by:
 
 
 
-Once you have used a feature several times, it starts to appear in the **Right Click** menu
+Once you have used a feature several times, it starts to appear in the **Right Click** menu. 
+
 **Right Click** menu:
 ![VS Code : Right Click Menu](https://scotentsd.github.io/tutorials/images/rightclick.png){:height="40%" width="40%"}
 
