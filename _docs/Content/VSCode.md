@@ -21,13 +21,21 @@ Download and install VS Code from
 
 ### Adding Extensions
 To add an extension:
-- Open VS Code
+- Open VS Code:
+- ![VS Code window](https://scotentsd.github.io/tutorials/images/vscode.png)
+
+
+
+
+
+
 - Open Extensions in Activity bar
   - Search for extensions
   - Install Extension
   - Set any Preferences (Settings) for an extension
 
-You can see Installed extensions
+
+You can see Installed extensions. The Extensions Button 
 Extensions: 
 ![VS Code : Extensions](https://scotentsd.github.io/tutorials/images/installed.png)
 
