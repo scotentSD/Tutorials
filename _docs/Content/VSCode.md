@@ -41,4 +41,7 @@ Extensions:
 
 Install the following Extensions
 
+
+
+
 ### Extension: Save Markdown as PDF
