@@ -42,14 +42,14 @@ These headings have been added to a **LIST**
 ```ruby
 - Item 1
 - Item 2
--   Item 3
+  - Item 3
 ```
 
 renders as 
 
 - Item 1
 - Item 2
-- Item 3
+  - Item 3
   
 Indenting is reflected in the list. 
 
