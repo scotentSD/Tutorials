@@ -15,7 +15,7 @@ order: 2
 
 ## Installing VS Code
 Download and install VS Code from
-- **[VS CODE](https://code.visualstudio.com)**
+- **[VS CODE](https://code.visualstudio.com)** from this link
 
 ## VS Code Basics
 
