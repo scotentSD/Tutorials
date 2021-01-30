@@ -37,7 +37,7 @@ You will see this screen:
    3. - Install relevant Extensions
    4. - Set any Preferences (Settings) for an extension
 
-- Click on **Extensions** in the left hand menu. It is the 3 box's with a 4th one flying off the top right corner_
+- Click on **Extensions** in the left hand menu. _It is the 3 box's with a 4th one flying off the top right corner_
 
 Search for **markdown**:
 ![VS Code : Search Extensions](https://scotentsd.github.io/tutorials/images/extensionsearch.png){:height="40%" width="40%"}
