@@ -25,6 +25,7 @@ Download and install VS Code from
 To add an extension:
 - Open VS Code:
 
+You will see this screen: 
 ![VS Code window](https://scotentsd.github.io/tutorials/images/vscode.png)
 
 
