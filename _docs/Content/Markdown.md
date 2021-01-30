@@ -15,8 +15,9 @@ It allows "write once, use anywhere" functionality.
    2. [Markdown Lists](#markdown-lists)
       1. [Numbers will create an ordered list](#numbers-will-create-an-ordered-list)
    3. [Links](#links)
-   4. [Adding a TOC](#adding-a-toc)
-   5. [Preferred Markdown tools](#preferred-markdown-tools)
+   4. [IMAGES](#images)
+   5. [Adding a TOC](#adding-a-toc)
+   6. [Preferred Markdown tools](#preferred-markdown-tools)
 
 ### Markdown Headings
 
@@ -83,6 +84,20 @@ Links follow this format:
 and will render as
 
 - [BBC NEWS](http://news.bbc.co.uk)
+
+---
+
+### IMAGES
+
+IMAGES LOOK LIKE A **LIINK** WITH A **!** IN FRONT OF THEM:
+
+```ruby
+![IMAGE ALT TEXT](https://scotentsd.github.io/tutorials/images/extensionsearch.png){:height="40%" width="40%"}
+```
+
+and will render as
+
+![IMAGE ALT TEXT](https://scotentsd.github.io/tutorials/images/extensionsearch.png){:height="40%" width="40%"}
 
 ---
 
