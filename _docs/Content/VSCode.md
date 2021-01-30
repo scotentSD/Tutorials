@@ -31,12 +31,13 @@ You will see this screen:
 
 
 
-- To add extensions
-  - Open Extensions in Activity bar
-    - Search for extensions
-    - Install relevant Extensions
-    - Set any Preferences (Settings) for an extension
+1. To add extensions we will:
+   1. - Open Extensions in Activity bar
+   2. - Search for extensions
+   3. - Install relevant Extensions
+   4. - Set any Preferences (Settings) for an extension
 
+- Clixk on the **Extensions** on the left hand menu. +It is the 3 box's with a 4thg one flying off teh top right corner_
 
 Search for **markdown**:
 ![VS Code : Search Extensions](https://scotentsd.github.io/tutorials/images/extensionsearch.png){:height="40%" width="40%"}
