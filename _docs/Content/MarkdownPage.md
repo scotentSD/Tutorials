@@ -24,3 +24,4 @@ order: 3
 
 ## **Preview** the page
 
+## Using **Outline** to show page structure
