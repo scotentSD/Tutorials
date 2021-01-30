@@ -70,4 +70,4 @@ Once you have used a feature several times, it starts to appear in the **Right C
 
 
 ## First Markdown Page
-Read about [creating your first markdown page](https://scotentsd.github.io/tutorials/Content/markdownpage/)**
+Read about **[creating your first markdown page](https://scotentsd.github.io/tutorials/Content/MarkdownPage/)**
