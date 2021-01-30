@@ -95,12 +95,11 @@ Images look lile a **LIINK** with a **!** in front of them:
 ```ruby
 ![IMAGE ALT TEXT](https://scotentsd.github.io/tutorials/images/extensionsearch.png){:height="40%" width="40%"}
 ```
-
-and will render as
-
-![IMAGE ALT TEXT](https://scotentsd.github.io/tutorials/images/extensionsearch.png){:height="40%" width="40%"}
-
 The ```{:height="40%" width="40%"}``` lets you adjust the size.
+
+
+This will render as:
+![IMAGE ALT TEXT](https://scotentsd.github.io/tutorials/images/extensionsearch.png){:height="40%" width="40%"}
 
 ---
 
