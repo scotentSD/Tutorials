@@ -120,7 +120,7 @@ which will render as:
 
 ### Preferred Markdown tools
 To stay within the Microsoft Family, we are using 
-- **[VS CODE](https://code.visualstudio.com)**
+- **[VS CODE (Microsoft: Visual Studio Code)](https://code.visualstudio.com)**
 
 Read the **[VS CODE as a Markdown Editor Guide](https://scotentsd.github.io/tutorials/Content/VSCode/)**
   
