@@ -11,6 +11,7 @@ order: 2
    1. [Adding Extensions](#adding-extensions)
 4. [Extension Settings](#extension-settings)
    1. [Running extensions](#running-extensions)
+5. [First Markdown Page](#first-markdown-page)
 
 ## Installing VS Code
 Download and install VS Code from
@@ -67,3 +68,6 @@ Once you have used a feature several times, it starts to appear in the **Right C
 **Right Click** menu:
 ![VS Code : Right Click Menu](https://scotentsd.github.io/tutorials/images/rightclick.png){:height="40%" width="40%"}
 
+
+## First Markdown Page
+Read about [creating your first markdown page](https://scotentsd.github.io/tutorials/Content/markdownpage/)**
