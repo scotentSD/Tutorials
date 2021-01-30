@@ -11,15 +11,15 @@ It allows "write once, use anywhere" functionality.
 ## Contents
 1. [Summary](#summary)
 2. [Contents](#contents)
-   1. [Markdown Headings](#markdown-headings)
-   2. [Markdown Lists](#markdown-lists)
-      1. [Numbers will create an ordered list](#numbers-will-create-an-ordered-list)
-   3. [Links](#links)
-   4. [IMAGES](#images)
-   5. [Adding a TOC](#adding-a-toc)
-   6. [Preferred Markdown tools](#preferred-markdown-tools)
+   1. [Headings](#headings)
+   2. [Un Ordered Lists](#un-ordered-lists)
+   3. [Ordered Lists](#ordered-lists)
+   4. [Links](#links)
+   5. [IMAGES](#images)
+   6. [Adding a TOC](#adding-a-toc)
+   7. [Preferred Markdown tools](#preferred-markdown-tools)
 
-### Markdown Headings
+### Headings
 
 Headings 1 to 6 are created by using the relevant numberof Hash (#) symbols in front of the text
 
@@ -39,7 +39,7 @@ _These headings have been added to a **LIST**_
 
 ---
 
-### Markdown Lists
+### Un Ordered Lists
 
 ```ruby
 - Item 1
@@ -57,8 +57,9 @@ Indenting is reflected in the list.
 
 Leave blank lines before and after most things
 
+---
 
-#### Numbers will create an ordered list
+### Ordered Lists
 ```ruby
 1. Item 1
 2. Item 2
@@ -123,4 +124,3 @@ Read the **[VS CODE as a Markdown Editor Guide](https://scotentsd.github.io/tuto
   
 
 
-  
