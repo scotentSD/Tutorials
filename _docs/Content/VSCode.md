@@ -37,7 +37,7 @@ You will see this screen:
    3. - Install relevant Extensions
    4. - Set any Preferences (Settings) for an extension
 
-- Clixk on the **Extensions** on the left hand menu. +It is the 3 box's with a 4thg one flying off teh top right corner_
+- Click on the **Extensions** on the left hand menu. +It is the 3 box's with a 4thg one flying off teh top right corner_
 
 Search for **markdown**:
 ![VS Code : Search Extensions](https://scotentsd.github.io/tutorials/images/extensionsearch.png){:height="40%" width="40%"}
@@ -74,3 +74,7 @@ Once you have used a feature several times, it starts to appear in the **Right C
 
 ## First Markdown Page
 Read about **[creating your first markdown page](https://scotentsd.github.io/tutorials/Content/MarkdownPage/)**
+
+
+
+
