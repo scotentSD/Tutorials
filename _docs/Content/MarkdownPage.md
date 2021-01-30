@@ -22,5 +22,5 @@ order: 3
 
 ## Add **Markdown** code
 
-## **Preview the page**
+## **Preview** the page
 
