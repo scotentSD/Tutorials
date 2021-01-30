@@ -90,7 +90,7 @@ and will render as
 
 ### IMAGES
 
-IMAGES LOOK LIKE A **LIINK** WITH A **!** IN FRONT OF THEM:
+Images look lile a **LIINK** with a **!** in front of them:
 
 ```ruby
 ![IMAGE ALT TEXT](https://scotentsd.github.io/tutorials/images/extensionsearch.png){:height="40%" width="40%"}
@@ -99,6 +99,8 @@ IMAGES LOOK LIKE A **LIINK** WITH A **!** IN FRONT OF THEM:
 and will render as
 
 ![IMAGE ALT TEXT](https://scotentsd.github.io/tutorials/images/extensionsearch.png){:height="40%" width="40%"}
+
+The ```{:height="40%" width="40%"}``` lets you adjust the size.
 
 ---
 
