@@ -7,7 +7,7 @@ order: 1
 ## Contents
 
 
-## Install MS Teams on Ipad
+## Install MS Teams on Windows
 zzz
 - **[LINK](https://URL)** from this link
 

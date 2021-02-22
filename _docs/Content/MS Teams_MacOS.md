@@ -7,7 +7,7 @@ order: 1
 ## Contents
 
 
-## Install MS Teams on Ipad
+## Install MS Teams on MacOS or OSX
 zzz
 - **[LINK](https://URL)** from this link
 
