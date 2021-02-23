@@ -1,7 +1,7 @@
 ---
 title: Mermaid Journey Maps
 category: Advanced Marksgown/Github
-order: 1
+order: 2
 ---
 
 <div class="mermaid">
