@@ -12,6 +12,7 @@ Learn how to conduct successful discovery phases in your UX design process, to e
 Learn the process for capturing and communicating UX insights across complex interactions
 
 
+
 ## May Conf
 All courses are across one day (London: 4pm to 11pm)
 
