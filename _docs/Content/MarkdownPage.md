@@ -1,6 +1,6 @@
 ---
-title: First Markdown Page (VS Cod)
-category: Research
+title: First Markdown Page (VS Code)
+category: Visual Studio Code
 order: 11
 ---
 ## Summary
